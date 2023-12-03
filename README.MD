@@ -76,5 +76,5 @@ This process should enable your application to be deployed in a local server for
 Deployment
 -------------
 ```
-$ python run.py
+$ python app.py
 ```
