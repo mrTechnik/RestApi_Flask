@@ -1,5 +1,5 @@
 # Environments
 venv/
-
+Dockerfile
 # PyCharm IDE
 .idea/
